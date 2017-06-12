@@ -1,0 +1,1 @@
+# Product – Inventory manager using AngularJS, MySQL and PHP RESTful API
